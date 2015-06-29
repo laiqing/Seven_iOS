@@ -1,0 +1,47 @@
+1. app icon  --check
+2. pause btn in the main layer. show refresh, exit, resume. --check
+3. game over, show score, best, seven!, time.  share to twitter\facebook\weibo\weixin . play again, back to menu. --check
+4. time mode. --check
+5. game center. --check
+6. tip animation. before game application start.  --check
+7. user default, ask for rate, and show tip.  --check
+
+8. capture screen. post to itunes connect. write english intro. 
+
+. match game.... implement in another game.
+
+
+"Seven!" is tetris style tiny puzzle game.
+
+it is easy to play:
+
+swipe to sum 3 number, if the number is less than 7, you only get tiny score;
+
+if the number is equal to 7, you get highest score and your life grow;
+
+if the number is larger than 7, you will receive a hurt.
+
+Try to get as many 7 as you can!
+
+You can follow @laiqing on Twitter and any suggestion would be appreciated.
+
+
+9. bug, 有时候有一个消不掉 --check
+10. 出现新的数字要有算法概率分布 -- check
+11. 当声音设置为没有时，初始化载入时显示的图标不对  --check
+
+
+
+做一个match mode button  -- check
+send attack后，要接收对方回来的实际hp  --check
+做一个match layer，自动匹配
+要有draw game... --check
+
+在 match game 里，每个菜单的事件都要重写。 restart, resume, exit.
+增加3个leaderboard，win count, lost count, draw count. --check
+
+
+
+
+
+
